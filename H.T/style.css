@@ -1,0 +1,32 @@
+header{
+    font-family: Arial-serif;
+}
+
+/* color del fondo columna izquierda */
+
+.big-primary{
+    background-color: black;  !important;
+} 
+
+/* .imagen{
+   max-width:80%;
+} */
+
+/* opacidad barra de progreso */
+.progress{
+    background-color: aliceblue;
+}
+
+/* cambio color texto col dere */
+.progress{
+    background-color: brown;
+}
+
+.card{
+    transition: transform 0.3s ease, box-shadow 0.3 ease;
+}
+
+.card:hover{
+    transform: translate(-15px);
+    box-shadow: 0 10px 20px black;
+}
